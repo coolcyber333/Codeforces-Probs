@@ -1,2 +1,2 @@
 # Codeforces Probs
- Contains all Codeforces Contents and Problemset Solutions
+ Contains all Codeforces Contests and Problemset Solutions
